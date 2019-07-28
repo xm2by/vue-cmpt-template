@@ -1,0 +1,23 @@
+{
+  "name": "vue-cmpt-template",
+  "version": "1.0.0",
+  "description": "Project template for vue-cmpt-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xm2by/vue-cmpt-template.git"
+  },
+  "keywords": [
+    "project-template",
+    "vue-cmpt-cli"
+  ],
+  "author": "xm2by <mxxumin@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xm2by/vue-cmpt-template/issues"
+  },
+  "homepage": "https://github.com/xm2by/vue-cmpt-template#readme"
+}
